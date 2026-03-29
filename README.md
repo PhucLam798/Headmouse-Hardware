@@ -3,6 +3,7 @@
 <p align="center">
   <img src="operatingprinciple.png" alt="Operating Principle" width="100%">
 </p>
+<p align="center"><i>Overview of the proposed head-movement-based mouse control system.</i></p>
 
 ---
 

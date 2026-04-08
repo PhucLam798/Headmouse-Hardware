@@ -15,7 +15,7 @@ The system uses infrared sensors (TCRT5000) to detect eye blinking and perform m
 
 
 ---
-## **Results (Kalman Filtering Performance)**
+## **Kalman Filtering Performance Results**
 
 To evaluate the effectiveness of the Kalman Filter, raw IMU data and filtered data were compared.
 
